@@ -12,7 +12,7 @@ function App() {
                 </p>
 
                 <p>
-                    Meu nome é <span>fulano</span> e eu sou um desenvolvedor web
+                    Meu nome é <span>Samira</span> e eu sou uma desenvolvedora web
                 </p>
 
                 <div id="redes-sociais">
